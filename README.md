@@ -7,6 +7,7 @@ Name "proyecto-final",
   author: "Mariela Cubillos"  
   license: "ISC",
   Dependencias de Desarrollo
+  
     gulp: "^3.9.1"
     gulp-concat: "^2.6.1",
     gulp-minify-css: "^1.2.4",
@@ -15,6 +16,7 @@ Name "proyecto-final",
     gulp-webserver: "^0.9.1"
     
   Dependencies de Produccion 
+  
     jquery: "^3.2.1"
 
 
