@@ -1,12 +1,18 @@
 # pinterest
 Ejercicio Evaluado leccion-50 proyecto final
 
-Name "proyecto-final",
+Name "proyecto-final"
+
   version: "1.0.0"
+  
   main": "gulpfile.js"
+  
   author: "Mariela Cubillos"  
+  
   license: "ISC",
+  
   Dependencias de Desarrollo
+  
   
     gulp: "^3.9.1"
     gulp-concat: "^2.6.1",
