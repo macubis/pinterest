@@ -51,3 +51,28 @@ nav{
 	background-image: url("assets/img/lupa.jpg");
 	background-repeat: no-repeat
 }
+.dos{
+	width:100%;
+	height:auto;
+	display: flex;
+	position: relative;
+	top: 54px;
+	padding: 10px;;
+
+}
+.items{
+	width:20%;
+	height:300px;
+    text-align: center;
+    padding:20px;
+}
+.items1{
+	width:20%;
+	height:300px;
+    text-align: center;
+    padding:20px;
+}
+.foto-pint{
+	width: 100%;
+	border-radius: 20px;
+}
